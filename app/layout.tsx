@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   metadataBase: new URL(site.url),
   title: site.title,
   description: site.description,
-  authors: [{ name: person.name }],
+    authors: [{ name: person.name }],
   alternates: { canonical: "/" },
   facebook: { appId: "1138151802103382" },
   openGraph: {

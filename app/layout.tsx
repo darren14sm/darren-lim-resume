@@ -23,6 +23,9 @@ export const metadata: Metadata = {
   description: site.description,
   authors: [{ name: person.name }],
   alternates: { canonical: "/" },
+    alternates: { canonical: "/" },
+  facebook: { appId: "1138151802103382" },
+  openGraph: {
   openGraph: {
     type: "website",
     title: site.social.title,

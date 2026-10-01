@@ -26,7 +26,6 @@ export const metadata: Metadata = {
     alternates: { canonical: "/" },
   facebook: { appId: "1138151802103382" },
   openGraph: {
-  openGraph: {
     type: "website",
     title: site.social.title,
     description: site.social.description,
